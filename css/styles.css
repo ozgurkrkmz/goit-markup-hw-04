@@ -116,6 +116,7 @@ body {
   }
 
   footer {
+    margin-right: 120px;
     background-color: #2e2f42;
   }
   address {
@@ -311,6 +312,7 @@ body {
   .footer-text {
     color: #f4f4fd;
     letter-spacing: 0.02em;
+    margin-right: 120px;
   }
   .ourportfolio-subtitle {
     font-size: 20px;
