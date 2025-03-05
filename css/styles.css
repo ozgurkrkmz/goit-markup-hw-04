@@ -354,6 +354,7 @@ body {
   .member-social-list {
     width: 40px;
     height: 40px;
+    Width: 40px;
   }
   
   a.member-icon-item {
@@ -456,6 +457,7 @@ body {
   .footer-site-social {
     display: flex;
     flex-direction: column;
+    margin-right: 120px;
   }
   
   .footer-site-social .footer-social-text {
@@ -466,6 +468,9 @@ body {
     letter-spacing: 0.02em;
     margin-bottom: 16px;
     margin-right: 120px;
+  }
+  .footer-social-text{
+    margin-bottom: 16px;
   }
   .footer-site-social-order {
     display: flex;
