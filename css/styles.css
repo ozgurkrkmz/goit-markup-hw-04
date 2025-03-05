@@ -356,7 +356,13 @@ body {
   .member-social-list {
     width: 40px;
     height: 40px;
-    Width: 40px;
+    background-color: #4d5ae5;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   }
   
   a.member-icon-item {
