@@ -354,7 +354,7 @@ body {
   }
   
   li.member-social-list {
-    width: 40px;
+    width: 40px !important;
     height: 40px;
   
   }
